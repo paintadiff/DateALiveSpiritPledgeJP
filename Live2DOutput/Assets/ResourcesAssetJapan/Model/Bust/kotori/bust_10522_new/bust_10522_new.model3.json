@@ -1,0 +1,174 @@
+{
+  "Version": 3,
+  "Name": "bust_10522_new",
+  "FileReferences": {
+    "Moc": "bust_10522_new.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png",
+      "textures/texture_03.png"
+    ],
+    "Physics": "bust_10522_new.physics3.json",
+    "Motions": {
+      "huxi": [
+        {
+          "File": "motions/huxi.motion3.json"
+        }
+      ],
+      "huxi_14002515": [
+        {
+          "File": "motions/huxi_14002515.motion3.json"
+        }
+      ],
+      "id_normal_1": [
+        {
+          "File": "motions/id_normal_1.motion3.json"
+        }
+      ],
+      "id_normal_1_48331031": [
+        {
+          "File": "motions/id_normal_1_48331031.motion3.json"
+        }
+      ],
+      "id_normal_10": [
+        {
+          "File": "motions/id_normal_10.motion3.json"
+        }
+      ],
+      "id_normal_10_43417715": [
+        {
+          "File": "motions/id_normal_10_43417715.motion3.json"
+        }
+      ],
+      "id_normal_11": [
+        {
+          "File": "motions/id_normal_11.motion3.json"
+        }
+      ],
+      "id_normal_11_62951597": [
+        {
+          "File": "motions/id_normal_11_62951597.motion3.json"
+        }
+      ],
+      "id_normal_12": [
+        {
+          "File": "motions/id_normal_12.motion3.json"
+        }
+      ],
+      "id_normal_12_47507730": [
+        {
+          "File": "motions/id_normal_12_47507730.motion3.json"
+        }
+      ],
+      "id_normal_13": [
+        {
+          "File": "motions/id_normal_13.motion3.json"
+        }
+      ],
+      "id_normal_13_12955559": [
+        {
+          "File": "motions/id_normal_13_12955559.motion3.json"
+        }
+      ],
+      "id_normal_2": [
+        {
+          "File": "motions/id_normal_2.motion3.json"
+        }
+      ],
+      "id_normal_2_9593646": [
+        {
+          "File": "motions/id_normal_2_9593646.motion3.json"
+        }
+      ],
+      "id_normal_3": [
+        {
+          "File": "motions/id_normal_3.motion3.json"
+        }
+      ],
+      "id_normal_3_19420603": [
+        {
+          "File": "motions/id_normal_3_19420603.motion3.json"
+        }
+      ],
+      "id_normal_4": [
+        {
+          "File": "motions/id_normal_4.motion3.json"
+        }
+      ],
+      "id_normal_4_47473686": [
+        {
+          "File": "motions/id_normal_4_47473686.motion3.json"
+        }
+      ],
+      "id_normal_5": [
+        {
+          "File": "motions/id_normal_5.motion3.json"
+        }
+      ],
+      "id_normal_5_11695919": [
+        {
+          "File": "motions/id_normal_5_11695919.motion3.json"
+        }
+      ],
+      "id_normal_6": [
+        {
+          "File": "motions/id_normal_6.motion3.json"
+        }
+      ],
+      "id_normal_6_30095846": [
+        {
+          "File": "motions/id_normal_6_30095846.motion3.json"
+        }
+      ],
+      "id_normal_7": [
+        {
+          "File": "motions/id_normal_7.motion3.json"
+        }
+      ],
+      "id_normal_7_39804506": [
+        {
+          "File": "motions/id_normal_7_39804506.motion3.json"
+        }
+      ],
+      "id_normal_8": [
+        {
+          "File": "motions/id_normal_8.motion3.json"
+        }
+      ],
+      "id_normal_8_63480590": [
+        {
+          "File": "motions/id_normal_8_63480590.motion3.json"
+        }
+      ],
+      "id_normal_9": [
+        {
+          "File": "motions/id_normal_9.motion3.json"
+        }
+      ],
+      "id_normal_9_67080481": [
+        {
+          "File": "motions/id_normal_9_67080481.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

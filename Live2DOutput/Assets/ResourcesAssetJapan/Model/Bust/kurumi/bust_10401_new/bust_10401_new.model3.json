@@ -1,0 +1,472 @@
+{
+  "Version": 3,
+  "Name": "bust_10401_new",
+  "FileReferences": {
+    "Moc": "bust_10401_new.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "bust_10401_new.physics3.json",
+    "Motions": {
+      "huxi": [
+        {
+          "File": "motions/huxi.motion3.json"
+        }
+      ],
+      "huxi_35332380": [
+        {
+          "File": "motions/huxi_35332380.motion3.json"
+        }
+      ],
+      "id_angry": [
+        {
+          "File": "motions/id_angry.motion3.json"
+        }
+      ],
+      "id_angry_32229657": [
+        {
+          "File": "motions/id_angry_32229657.motion3.json"
+        }
+      ],
+      "id_dress": [
+        {
+          "File": "motions/id_dress.motion3.json"
+        }
+      ],
+      "id_dress_51646632": [
+        {
+          "File": "motions/id_dress_51646632.motion3.json"
+        }
+      ],
+      "id_favor1_1": [
+        {
+          "File": "motions/id_favor1_1.motion3.json"
+        }
+      ],
+      "id_favor1_1_31877213": [
+        {
+          "File": "motions/id_favor1_1_31877213.motion3.json"
+        }
+      ],
+      "id_favor1_2": [
+        {
+          "File": "motions/id_favor1_2.motion3.json"
+        }
+      ],
+      "id_favor1_2_38606208": [
+        {
+          "File": "motions/id_favor1_2_38606208.motion3.json"
+        }
+      ],
+      "id_favor1_3": [
+        {
+          "File": "motions/id_favor1_3.motion3.json"
+        }
+      ],
+      "id_favor1_3_19143553": [
+        {
+          "File": "motions/id_favor1_3_19143553.motion3.json"
+        }
+      ],
+      "id_favor2_1": [
+        {
+          "File": "motions/id_favor2_1.motion3.json"
+        }
+      ],
+      "id_favor2_1_37222848": [
+        {
+          "File": "motions/id_favor2_1_37222848.motion3.json"
+        }
+      ],
+      "id_favor3_1": [
+        {
+          "File": "motions/id_favor3_1.motion3.json"
+        }
+      ],
+      "id_favor3_1_35068124": [
+        {
+          "File": "motions/id_favor3_1_35068124.motion3.json"
+        }
+      ],
+      "id_favor4_1": [
+        {
+          "File": "motions/id_favor4_1.motion3.json"
+        }
+      ],
+      "id_favor4_1_22452184": [
+        {
+          "File": "motions/id_favor4_1_22452184.motion3.json"
+        }
+      ],
+      "id_favor5_1": [
+        {
+          "File": "motions/id_favor5_1.motion3.json"
+        }
+      ],
+      "id_favor5_1_25424467": [
+        {
+          "File": "motions/id_favor5_1_25424467.motion3.json"
+        }
+      ],
+      "id_happy": [
+        {
+          "File": "motions/id_happy.motion3.json"
+        }
+      ],
+      "id_happy_1181189": [
+        {
+          "File": "motions/id_happy_1181189.motion3.json"
+        }
+      ],
+      "id_normal_1": [
+        {
+          "File": "motions/id_normal_1.motion3.json"
+        }
+      ],
+      "id_normal_1_43704028": [
+        {
+          "File": "motions/id_normal_1_43704028.motion3.json"
+        }
+      ],
+      "id_normal_10": [
+        {
+          "File": "motions/id_normal_10.motion3.json"
+        }
+      ],
+      "id_normal_10_6436310": [
+        {
+          "File": "motions/id_normal_10_6436310.motion3.json"
+        }
+      ],
+      "id_normal_11": [
+        {
+          "File": "motions/id_normal_11.motion3.json"
+        }
+      ],
+      "id_normal_11_36816893": [
+        {
+          "File": "motions/id_normal_11_36816893.motion3.json"
+        }
+      ],
+      "id_normal_12": [
+        {
+          "File": "motions/id_normal_12.motion3.json"
+        }
+      ],
+      "id_normal_12_20047784": [
+        {
+          "File": "motions/id_normal_12_20047784.motion3.json"
+        }
+      ],
+      "id_normal_13": [
+        {
+          "File": "motions/id_normal_13.motion3.json"
+        }
+      ],
+      "id_normal_13_3570509": [
+        {
+          "File": "motions/id_normal_13_3570509.motion3.json"
+        }
+      ],
+      "id_normal_2": [
+        {
+          "File": "motions/id_normal_2.motion3.json"
+        }
+      ],
+      "id_normal_2_64999977": [
+        {
+          "File": "motions/id_normal_2_64999977.motion3.json"
+        }
+      ],
+      "id_normal_3": [
+        {
+          "File": "motions/id_normal_3.motion3.json"
+        }
+      ],
+      "id_normal_3_56188913": [
+        {
+          "File": "motions/id_normal_3_56188913.motion3.json"
+        }
+      ],
+      "id_normal_4": [
+        {
+          "File": "motions/id_normal_4.motion3.json"
+        }
+      ],
+      "id_normal_4_65723863": [
+        {
+          "File": "motions/id_normal_4_65723863.motion3.json"
+        }
+      ],
+      "id_normal_5": [
+        {
+          "File": "motions/id_normal_5.motion3.json"
+        }
+      ],
+      "id_normal_5_15863839": [
+        {
+          "File": "motions/id_normal_5_15863839.motion3.json"
+        }
+      ],
+      "id_normal_6": [
+        {
+          "File": "motions/id_normal_6.motion3.json"
+        }
+      ],
+      "id_normal_6_50091136": [
+        {
+          "File": "motions/id_normal_6_50091136.motion3.json"
+        }
+      ],
+      "id_normal_7": [
+        {
+          "File": "motions/id_normal_7.motion3.json"
+        }
+      ],
+      "id_normal_7_41432733": [
+        {
+          "File": "motions/id_normal_7_41432733.motion3.json"
+        }
+      ],
+      "id_normal_8": [
+        {
+          "File": "motions/id_normal_8.motion3.json"
+        }
+      ],
+      "id_normal_8_56616131": [
+        {
+          "File": "motions/id_normal_8_56616131.motion3.json"
+        }
+      ],
+      "id_normal_9": [
+        {
+          "File": "motions/id_normal_9.motion3.json"
+        }
+      ],
+      "id_normal_9_14422082": [
+        {
+          "File": "motions/id_normal_9_14422082.motion3.json"
+        }
+      ],
+      "id_normal_jingya": [
+        {
+          "File": "motions/id_normal_jingya.motion3.json"
+        }
+      ],
+      "id_normal_jingya_63854989": [
+        {
+          "File": "motions/id_normal_jingya_63854989.motion3.json"
+        }
+      ],
+      "id_send": [
+        {
+          "File": "motions/id_send.motion3.json"
+        }
+      ],
+      "id_send_13824370": [
+        {
+          "File": "motions/id_send_13824370.motion3.json"
+        }
+      ],
+      "idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ],
+      "idle_41739676": [
+        {
+          "File": "motions/idle_41739676.motion3.json"
+        }
+      ],
+      "main_03_0116": [
+        {
+          "File": "motions/main_03_0116.motion3.json"
+        }
+      ],
+      "main_03_0116_864166": [
+        {
+          "File": "motions/main_03_0116_864166.motion3.json"
+        }
+      ],
+      "main_03_0117": [
+        {
+          "File": "motions/main_03_0117.motion3.json"
+        }
+      ],
+      "main_03_0117_31974143": [
+        {
+          "File": "motions/main_03_0117_31974143.motion3.json"
+        }
+      ],
+      "main_03_0118": [
+        {
+          "File": "motions/main_03_0118.motion3.json"
+        }
+      ],
+      "main_03_0118_42192609": [
+        {
+          "File": "motions/main_03_0118_42192609.motion3.json"
+        }
+      ],
+      "main_03_0119": [
+        {
+          "File": "motions/main_03_0119.motion3.json"
+        }
+      ],
+      "main_03_0119_17622674": [
+        {
+          "File": "motions/main_03_0119_17622674.motion3.json"
+        }
+      ],
+      "main_03_0120": [
+        {
+          "File": "motions/main_03_0120.motion3.json"
+        }
+      ],
+      "main_03_0120_48059194": [
+        {
+          "File": "motions/main_03_0120_48059194.motion3.json"
+        }
+      ],
+      "main_03_0121": [
+        {
+          "File": "motions/main_03_0121.motion3.json"
+        }
+      ],
+      "main_03_0121_33359749": [
+        {
+          "File": "motions/main_03_0121_33359749.motion3.json"
+        }
+      ],
+      "main_03_0122": [
+        {
+          "File": "motions/main_03_0122.motion3.json"
+        }
+      ],
+      "main_03_0122_26351192": [
+        {
+          "File": "motions/main_03_0122_26351192.motion3.json"
+        }
+      ],
+      "main_03_0123": [
+        {
+          "File": "motions/main_03_0123.motion3.json"
+        }
+      ],
+      "main_03_0123_35470038": [
+        {
+          "File": "motions/main_03_0123_35470038.motion3.json"
+        }
+      ],
+      "main_03_0124": [
+        {
+          "File": "motions/main_03_0124.motion3.json"
+        }
+      ],
+      "main_03_0124_37322992": [
+        {
+          "File": "motions/main_03_0124_37322992.motion3.json"
+        }
+      ],
+      "main_03_0125": [
+        {
+          "File": "motions/main_03_0125.motion3.json"
+        }
+      ],
+      "main_03_0125_38773457": [
+        {
+          "File": "motions/main_03_0125_38773457.motion3.json"
+        }
+      ],
+      "main_03_0126": [
+        {
+          "File": "motions/main_03_0126.motion3.json"
+        }
+      ],
+      "main_03_0126_25331785": [
+        {
+          "File": "motions/main_03_0126_25331785.motion3.json"
+        }
+      ],
+      "main_03_0127": [
+        {
+          "File": "motions/main_03_0127.motion3.json"
+        }
+      ],
+      "main_03_0127_64860822": [
+        {
+          "File": "motions/main_03_0127_64860822.motion3.json"
+        }
+      ],
+      "main_03_0128": [
+        {
+          "File": "motions/main_03_0128.motion3.json"
+        }
+      ],
+      "main_03_0128_51040183": [
+        {
+          "File": "motions/main_03_0128_51040183.motion3.json"
+        }
+      ],
+      "main_03_0129": [
+        {
+          "File": "motions/main_03_0129.motion3.json"
+        }
+      ],
+      "main_03_0129_9438610": [
+        {
+          "File": "motions/main_03_0129_9438610.motion3.json"
+        }
+      ],
+      "main_03_0130": [
+        {
+          "File": "motions/main_03_0130.motion3.json"
+        }
+      ],
+      "main_03_0130_13684258": [
+        {
+          "File": "motions/main_03_0130_13684258.motion3.json"
+        }
+      ],
+      "main_03_0131": [
+        {
+          "File": "motions/main_03_0131.motion3.json"
+        }
+      ],
+      "main_03_0131_36555523": [
+        {
+          "File": "motions/main_03_0131_36555523.motion3.json"
+        }
+      ],
+      "normal": [
+        {
+          "File": "motions/normal.motion3.json"
+        }
+      ],
+      "normal_10377087": [
+        {
+          "File": "motions/normal_10377087.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

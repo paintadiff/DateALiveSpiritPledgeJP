@@ -1,0 +1,184 @@
+{
+  "Version": 3,
+  "Name": "bust_10215_new",
+  "FileReferences": {
+    "Moc": "bust_10215_new.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png",
+      "textures/texture_03.png"
+    ],
+    "Physics": "bust_10215_new.physics3.json",
+    "Motions": {
+      "huxi": [
+        {
+          "File": "motions/huxi.motion3.json"
+        }
+      ],
+      "huxi_65481217": [
+        {
+          "File": "motions/huxi_65481217.motion3.json"
+        }
+      ],
+      "id_normal_1": [
+        {
+          "File": "motions/id_normal_1.motion3.json"
+        }
+      ],
+      "id_normal_1_6885935": [
+        {
+          "File": "motions/id_normal_1_6885935.motion3.json"
+        }
+      ],
+      "id_normal_10": [
+        {
+          "File": "motions/id_normal_10.motion3.json"
+        }
+      ],
+      "id_normal_10_53453018": [
+        {
+          "File": "motions/id_normal_10_53453018.motion3.json"
+        }
+      ],
+      "id_normal_11": [
+        {
+          "File": "motions/id_normal_11.motion3.json"
+        }
+      ],
+      "id_normal_11_31604633": [
+        {
+          "File": "motions/id_normal_11_31604633.motion3.json"
+        }
+      ],
+      "id_normal_12": [
+        {
+          "File": "motions/id_normal_12.motion3.json"
+        }
+      ],
+      "id_normal_12_28520738": [
+        {
+          "File": "motions/id_normal_12_28520738.motion3.json"
+        }
+      ],
+      "id_normal_13": [
+        {
+          "File": "motions/id_normal_13.motion3.json"
+        }
+      ],
+      "id_normal_13_48634354": [
+        {
+          "File": "motions/id_normal_13_48634354.motion3.json"
+        }
+      ],
+      "id_normal_14": [
+        {
+          "File": "motions/id_normal_14.motion3.json"
+        }
+      ],
+      "id_normal_14_54640638": [
+        {
+          "File": "motions/id_normal_14_54640638.motion3.json"
+        }
+      ],
+      "id_normal_2": [
+        {
+          "File": "motions/id_normal_2.motion3.json"
+        }
+      ],
+      "id_normal_2_8437688": [
+        {
+          "File": "motions/id_normal_2_8437688.motion3.json"
+        }
+      ],
+      "id_normal_3": [
+        {
+          "File": "motions/id_normal_3.motion3.json"
+        }
+      ],
+      "id_normal_3_43759012": [
+        {
+          "File": "motions/id_normal_3_43759012.motion3.json"
+        }
+      ],
+      "id_normal_4": [
+        {
+          "File": "motions/id_normal_4.motion3.json"
+        }
+      ],
+      "id_normal_4_8470713": [
+        {
+          "File": "motions/id_normal_4_8470713.motion3.json"
+        }
+      ],
+      "id_normal_5": [
+        {
+          "File": "motions/id_normal_5.motion3.json"
+        }
+      ],
+      "id_normal_5_44980954": [
+        {
+          "File": "motions/id_normal_5_44980954.motion3.json"
+        }
+      ],
+      "id_normal_6": [
+        {
+          "File": "motions/id_normal_6.motion3.json"
+        }
+      ],
+      "id_normal_6_53682580": [
+        {
+          "File": "motions/id_normal_6_53682580.motion3.json"
+        }
+      ],
+      "id_normal_7": [
+        {
+          "File": "motions/id_normal_7.motion3.json"
+        }
+      ],
+      "id_normal_7_40098423": [
+        {
+          "File": "motions/id_normal_7_40098423.motion3.json"
+        }
+      ],
+      "id_normal_8": [
+        {
+          "File": "motions/id_normal_8.motion3.json"
+        }
+      ],
+      "id_normal_8_7246646": [
+        {
+          "File": "motions/id_normal_8_7246646.motion3.json"
+        }
+      ],
+      "id_normal_9": [
+        {
+          "File": "motions/id_normal_9.motion3.json"
+        }
+      ],
+      "id_normal_9_66799327": [
+        {
+          "File": "motions/id_normal_9_66799327.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

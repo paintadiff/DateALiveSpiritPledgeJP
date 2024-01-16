@@ -1,0 +1,364 @@
+{
+  "Version": 3,
+  "Name": "bust_10506_new",
+  "FileReferences": {
+    "Moc": "bust_10506_new.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png",
+      "textures/texture_03.png"
+    ],
+    "Physics": "bust_10506_new.physics3.json",
+    "Motions": {
+      "huxi": [
+        {
+          "File": "motions/huxi.motion3.json"
+        }
+      ],
+      "huxi_40900571": [
+        {
+          "File": "motions/huxi_40900571.motion3.json"
+        }
+      ],
+      "id_angry": [
+        {
+          "File": "motions/id_angry.motion3.json"
+        }
+      ],
+      "id_angry_36926124": [
+        {
+          "File": "motions/id_angry_36926124.motion3.json"
+        }
+      ],
+      "id_dress": [
+        {
+          "File": "motions/id_dress.motion3.json"
+        }
+      ],
+      "id_dress_02": [
+        {
+          "File": "motions/id_dress_02.motion3.json"
+        }
+      ],
+      "id_dress_02_18890255": [
+        {
+          "File": "motions/id_dress_02_18890255.motion3.json"
+        }
+      ],
+      "id_dress_24089337": [
+        {
+          "File": "motions/id_dress_24089337.motion3.json"
+        }
+      ],
+      "id_favor1_1": [
+        {
+          "File": "motions/id_favor1_1.motion3.json"
+        }
+      ],
+      "id_favor1_1_": [
+        {
+          "File": "motions/id_favor1_1_.motion3.json"
+        }
+      ],
+      "id_favor1_1__23847161": [
+        {
+          "File": "motions/id_favor1_1__23847161.motion3.json"
+        }
+      ],
+      "id_favor1_1_27850814": [
+        {
+          "File": "motions/id_favor1_1_27850814.motion3.json"
+        }
+      ],
+      "id_favor1_2": [
+        {
+          "File": "motions/id_favor1_2.motion3.json"
+        }
+      ],
+      "id_favor1_2_": [
+        {
+          "File": "motions/id_favor1_2_.motion3.json"
+        }
+      ],
+      "id_favor1_2__31856168": [
+        {
+          "File": "motions/id_favor1_2__31856168.motion3.json"
+        }
+      ],
+      "id_favor1_2_9929742": [
+        {
+          "File": "motions/id_favor1_2_9929742.motion3.json"
+        }
+      ],
+      "id_favor1_3": [
+        {
+          "File": "motions/id_favor1_3.motion3.json"
+        }
+      ],
+      "id_favor1_3_": [
+        {
+          "File": "motions/id_favor1_3_.motion3.json"
+        }
+      ],
+      "id_favor1_3__57442219": [
+        {
+          "File": "motions/id_favor1_3__57442219.motion3.json"
+        }
+      ],
+      "id_favor1_3_37827554": [
+        {
+          "File": "motions/id_favor1_3_37827554.motion3.json"
+        }
+      ],
+      "id_favor2_1": [
+        {
+          "File": "motions/id_favor2_1.motion3.json"
+        }
+      ],
+      "id_favor2_1_": [
+        {
+          "File": "motions/id_favor2_1_.motion3.json"
+        }
+      ],
+      "id_favor2_1__53918302": [
+        {
+          "File": "motions/id_favor2_1__53918302.motion3.json"
+        }
+      ],
+      "id_favor2_1_44987325": [
+        {
+          "File": "motions/id_favor2_1_44987325.motion3.json"
+        }
+      ],
+      "id_favor3_1": [
+        {
+          "File": "motions/id_favor3_1.motion3.json"
+        }
+      ],
+      "id_favor3_1_": [
+        {
+          "File": "motions/id_favor3_1_.motion3.json"
+        }
+      ],
+      "id_favor3_1__61515121": [
+        {
+          "File": "motions/id_favor3_1__61515121.motion3.json"
+        }
+      ],
+      "id_favor3_1_48820150": [
+        {
+          "File": "motions/id_favor3_1_48820150.motion3.json"
+        }
+      ],
+      "id_favor4_1": [
+        {
+          "File": "motions/id_favor4_1.motion3.json"
+        }
+      ],
+      "id_favor4_1_": [
+        {
+          "File": "motions/id_favor4_1_.motion3.json"
+        }
+      ],
+      "id_favor4_1__59686370": [
+        {
+          "File": "motions/id_favor4_1__59686370.motion3.json"
+        }
+      ],
+      "id_favor4_1_61466996": [
+        {
+          "File": "motions/id_favor4_1_61466996.motion3.json"
+        }
+      ],
+      "id_favor5_1": [
+        {
+          "File": "motions/id_favor5_1.motion3.json"
+        }
+      ],
+      "id_favor5_1_": [
+        {
+          "File": "motions/id_favor5_1_.motion3.json"
+        }
+      ],
+      "id_favor5_1__39153149": [
+        {
+          "File": "motions/id_favor5_1__39153149.motion3.json"
+        }
+      ],
+      "id_favor5_1_60912044": [
+        {
+          "File": "motions/id_favor5_1_60912044.motion3.json"
+        }
+      ],
+      "id_happy": [
+        {
+          "File": "motions/id_happy.motion3.json"
+        }
+      ],
+      "id_happy_39380389": [
+        {
+          "File": "motions/id_happy_39380389.motion3.json"
+        }
+      ],
+      "id_normal_1": [
+        {
+          "File": "motions/id_normal_1.motion3.json"
+        }
+      ],
+      "id_normal_1_47788258": [
+        {
+          "File": "motions/id_normal_1_47788258.motion3.json"
+        }
+      ],
+      "id_normal_10": [
+        {
+          "File": "motions/id_normal_10.motion3.json"
+        }
+      ],
+      "id_normal_10_23335091": [
+        {
+          "File": "motions/id_normal_10_23335091.motion3.json"
+        }
+      ],
+      "id_normal_11": [
+        {
+          "File": "motions/id_normal_11.motion3.json"
+        }
+      ],
+      "id_normal_11_58092030": [
+        {
+          "File": "motions/id_normal_11_58092030.motion3.json"
+        }
+      ],
+      "id_normal_12": [
+        {
+          "File": "motions/id_normal_12.motion3.json"
+        }
+      ],
+      "id_normal_12_1921470": [
+        {
+          "File": "motions/id_normal_12_1921470.motion3.json"
+        }
+      ],
+      "id_normal_13": [
+        {
+          "File": "motions/id_normal_13.motion3.json"
+        }
+      ],
+      "id_normal_13_3985551": [
+        {
+          "File": "motions/id_normal_13_3985551.motion3.json"
+        }
+      ],
+      "id_normal_2": [
+        {
+          "File": "motions/id_normal_2.motion3.json"
+        }
+      ],
+      "id_normal_2_13247675": [
+        {
+          "File": "motions/id_normal_2_13247675.motion3.json"
+        }
+      ],
+      "id_normal_3": [
+        {
+          "File": "motions/id_normal_3.motion3.json"
+        }
+      ],
+      "id_normal_3_20401955": [
+        {
+          "File": "motions/id_normal_3_20401955.motion3.json"
+        }
+      ],
+      "id_normal_4": [
+        {
+          "File": "motions/id_normal_4.motion3.json"
+        }
+      ],
+      "id_normal_4_16674865": [
+        {
+          "File": "motions/id_normal_4_16674865.motion3.json"
+        }
+      ],
+      "id_normal_5": [
+        {
+          "File": "motions/id_normal_5.motion3.json"
+        }
+      ],
+      "id_normal_5_12990233": [
+        {
+          "File": "motions/id_normal_5_12990233.motion3.json"
+        }
+      ],
+      "id_normal_6": [
+        {
+          "File": "motions/id_normal_6.motion3.json"
+        }
+      ],
+      "id_normal_6_10876596": [
+        {
+          "File": "motions/id_normal_6_10876596.motion3.json"
+        }
+      ],
+      "id_normal_7": [
+        {
+          "File": "motions/id_normal_7.motion3.json"
+        }
+      ],
+      "id_normal_7_66889758": [
+        {
+          "File": "motions/id_normal_7_66889758.motion3.json"
+        }
+      ],
+      "id_normal_8": [
+        {
+          "File": "motions/id_normal_8.motion3.json"
+        }
+      ],
+      "id_normal_8_59001964": [
+        {
+          "File": "motions/id_normal_8_59001964.motion3.json"
+        }
+      ],
+      "id_normal_9": [
+        {
+          "File": "motions/id_normal_9.motion3.json"
+        }
+      ],
+      "id_normal_9_35589040": [
+        {
+          "File": "motions/id_normal_9_35589040.motion3.json"
+        }
+      ],
+      "idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ],
+      "idle_41726094": [
+        {
+          "File": "motions/idle_41726094.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}
